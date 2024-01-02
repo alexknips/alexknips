@@ -1,4 +1,8 @@
-### Hi there 👋
+## About me
+
+## My developer journey and progress as an engineer
+I 💙 roadmap.sh and using it to track my progress in my technical skillset.
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65931ce0ae22c1252307ef61?variant=light&roadmaps=software-design-architecture%2Cbackend%2Cdevops%2Cfrontend)](https://roadmap.sh)
 
 <!--
 **alexknips/alexknips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
